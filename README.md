@@ -2,10 +2,10 @@
 This project automates the testing of a Hospital Management Web App. The scripts are written in Python using Selenium.
 
 ## Prerequisites
-Python 3.x
-Selenium
-Chrome WebDriver
-Sample Dataset (Sample Dataset.csv)
+- Python 3.x
+- Selenium
+- Chrome WebDriver
+- Sample Dataset (Sample Dataset.csv)
 
 ## Setup Instructions
 Clone the repository.
